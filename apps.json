@@ -24,5 +24,18 @@
   "size": 143104,
   "created": 1792592333181,
   "updated": 1792592333181
+ },
+ {
+  "id": "mvi78no8",
+  "name": "ThinkStore",
+  "desc": "ThinkStore – Your Ideas, One Place. 📝\nCapture your thoughts, organize your notes, and keep your important ideas in one place. Simple, smart, and easy to use — ThinkStore makes note-taking effortless",
+  "type": "app",
+  "version": "1.2",
+  "logo": "logos/mvi78no8.png",
+  "apk": "apks/mvi78no8.apk",
+  "apkName": "Thinkstore-1.2.apk",
+  "size": 309866,
+  "created": 1792592414936,
+  "updated": 1792592414936
  }
 ]
