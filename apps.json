@@ -11,5 +11,18 @@
   "size": 20499659,
   "created": 1792592215168,
   "updated": 1792592215168
+ },
+ {
+  "id": "mvi76wl9",
+  "name": "Turbo Rush",
+  "desc": "Turbo Rush – Race Beyond Limits! 🏎️\nExperience thrilling 3D car racing with stunning car models, exciting levels, and multiplayer support. Race against friends, conquer challenging tracks, and prove you're the ultimate racing champion!",
+  "type": "game",
+  "version": "3.7",
+  "logo": "logos/mvi76wl9.png",
+  "apk": "apks/mvi76wl9.apk",
+  "apkName": "TurboRush_v3.7.apk",
+  "size": 143104,
+  "created": 1792592333181,
+  "updated": 1792592333181
  }
 ]
