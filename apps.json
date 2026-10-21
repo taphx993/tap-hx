@@ -37,18 +37,5 @@
   "size": 309866,
   "created": 1792592414936,
   "updated": 1792592414936
- },
- {
-  "id": "mvi7e1hl",
-  "name": "pagemint",
-  "desc": "PageMint – Create, Edit, Perfect. 📄\nCreate professional PDFs with 10+ powerful PDF tools and edit documents with ease. From making PDFs to customizing pages, PageMint makes document creation simple, smart, and effortless!",
-  "type": "app",
-  "version": "1.2",
-  "logo": "logos/mvi7e1hl.png",
-  "apk": "apks/mvi7e1hl.apk",
-  "apkName": "PageMint.apk",
-  "size": 2500111,
-  "created": 1792592666121,
-  "updated": 1792592666121
  }
 ]
